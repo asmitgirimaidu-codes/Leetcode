@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0067-add-binary) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Linked List
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0067-add-binary](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Dynamic Programming
@@ -60,10 +62,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Matrix
 |  |
 | ------- |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
