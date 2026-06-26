@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0066-plus-one) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0066-plus-one) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Linked List
 |  |
 | ------- |
@@ -58,4 +60,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+## Matrix
+|  |
+| ------- |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 <!---LeetCode Topics End-->
