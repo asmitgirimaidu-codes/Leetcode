@@ -145,4 +145,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0542-01-matrix) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+## Tree
+|  |
+| ------- |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+## Depth-First Search
+|  |
+| ------- |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+## Binary Tree
+|  |
+| ------- |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 <!---LeetCode Topics End-->
