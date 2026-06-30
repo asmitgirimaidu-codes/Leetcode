@@ -1,0 +1,24 @@
+class Solution(object):
+    def numberOfSubstrings(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
+        count = {'a': 0, 'b': 0, 'c': 0}
+        left = 0
+        total_substrings = 0
+        
+        for right in range(len(s)):
+            count[s[right]] += 1
+            
+            # While the window contains all three characters
+            while count['a'] > 0 and count['b'] > 0 and count['c'] > 0:
+                # All substrings starting from 0 to left and ending at right 
+                # are valid. There are (left + 1) such substrings.
+                total_substrings += (len(s) - right)
+                
+                # Shrink the window from the left
+                count[s[left]] -= 1
+                left += 1
+                
+        return total_substrings
