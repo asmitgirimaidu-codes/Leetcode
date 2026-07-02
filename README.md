@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0867-transpose-matrix) |
 | [1314-matrix-block-sum](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1314-matrix-block-sum) |
+| [1632-rank-transform-of-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1632-rank-transform-of-a-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0867-transpose-matrix) |
 | [1314-matrix-block-sum](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1314-matrix-block-sum) |
+| [1632-rank-transform-of-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1632-rank-transform-of-a-matrix) |
 | [2326-spiral-matrix-iv](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0088-merge-sorted-array) |
+| [1632-rank-transform-of-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1632-rank-transform-of-a-matrix) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Breadth-First Search
 |  |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1632-rank-transform-of-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1632-rank-transform-of-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Counting
 |  |
@@ -217,9 +221,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1632-rank-transform-of-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1632-rank-transform-of-a-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Topological Sort
+|  |
+| ------- |
+| [1632-rank-transform-of-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1632-rank-transform-of-a-matrix) |
 <!---LeetCode Topics End-->
