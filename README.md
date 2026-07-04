@@ -301,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
