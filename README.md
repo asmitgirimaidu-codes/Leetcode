@@ -317,4 +317,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0185-department-top-three-salaries) |
+| [0197-rising-temperature](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
