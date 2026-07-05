@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0542-01-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0542-01-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Trie
 |  |
 | ------- |
@@ -328,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0626-exchange-seats) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
