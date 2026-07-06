@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1314-matrix-block-sum](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1632-rank-transform-of-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1632-rank-transform-of-a-matrix) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1732-find-the-highest-altitude](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1410-html-entity-parser](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1410-html-entity-parser) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2732-find-a-good-subset-of-the-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2732-find-a-good-subset-of-the-matrix) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0101-symmetric-tree) |
 | [0542-01-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0542-01-matrix) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1654-minimum-jumps-to-reach-home) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
