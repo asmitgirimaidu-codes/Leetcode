@@ -286,11 +286,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Union-Find
 |  |
