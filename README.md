@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0627-swap-sex-of-employees) |
+| [1045-customers-who-bought-all-products](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1045-customers-who-bought-all-products) |
 ## Monotonic Stack
 |  |
 | ------- |
