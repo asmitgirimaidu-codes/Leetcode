@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0113-path-sum-ii) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Depth-First Search
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0113-path-sum-ii) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0113-path-sum-ii) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Union-Find
 |  |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0046-permutations) |
 | [0095-unique-binary-search-trees-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0113-path-sum-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0113-path-sum-ii) |
 | [1655-distribute-repeating-integers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1655-distribute-repeating-integers) |
 ## String Matching
 |  |
