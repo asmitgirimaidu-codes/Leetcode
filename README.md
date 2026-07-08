@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0542-01-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0542-01-matrix) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1189-maximum-number-of-balloons](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1410-html-entity-parser](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1410-html-entity-parser) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -335,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
