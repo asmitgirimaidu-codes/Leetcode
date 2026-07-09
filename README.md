@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3379-transformed-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [3719-longest-balanced-subarray-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2732-find-a-good-subset-of-the-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2732-find-a-good-subset-of-the-matrix) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
@@ -176,10 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1314-matrix-block-sum](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [3719-longest-balanced-subarray-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
