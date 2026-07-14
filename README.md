@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0190-reverse-bits) |
 | [3719-longest-balanced-subarray-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0190-reverse-bits) |
 | [1655-distribute-repeating-integers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1655-distribute-repeating-integers) |
 | [2732-find-a-good-subset-of-the-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2732-find-a-good-subset-of-the-matrix) |
 ## Enumeration
