@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1410-html-entity-parser](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1410-html-entity-parser) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1410-html-entity-parser](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1410-html-entity-parser) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1655-distribute-repeating-integers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1655-distribute-repeating-integers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0868-binary-gap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1655-distribute-repeating-integers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1655-distribute-repeating-integers) |
 | [2732-find-a-good-subset-of-the-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2732-find-a-good-subset-of-the-matrix) |
 ## Enumeration
@@ -501,4 +504,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
