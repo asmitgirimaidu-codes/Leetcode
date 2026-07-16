@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3719-longest-balanced-subarray-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0696-count-binary-substrings](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0696-count-binary-substrings) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3379-transformed-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1632-rank-transform-of-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1632-rank-transform-of-a-matrix) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -504,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Rolling Hash
 |  |
 | ------- |
