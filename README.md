@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0868-binary-gap) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0046-permutations) |
 | [0095-unique-binary-search-trees-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0113-path-sum-ii) |
+| [0401-binary-watch](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0401-binary-watch) |
 | [1655-distribute-repeating-integers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1655-distribute-repeating-integers) |
 ## String Matching
 |  |
