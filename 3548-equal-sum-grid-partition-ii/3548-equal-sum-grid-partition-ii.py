@@ -1,0 +1,55 @@
+from collections import defaultdict
+
+class Solution(object):
+    def canPartitionGrid(self, grid):
+        """
+        :type grid: List[List[int]]
+        :rtype: bool
+        """
+        def check(g):
+            m, n = len(g), len(g[0])
+            s1, s2 = 0, 0
+            cnt1 = defaultdict(int)
+            cnt2 = defaultdict(int)
+            
+            for row in g:
+                for x in row:
+                    s2 += x
+                    cnt2[x] += 1
+                    
+            for i in range(m - 1):
+                for x in g[i]:
+                    s1 += x
+                    s2 -= x
+                    cnt1[x] += 1
+                    cnt2[x] -= 1
+                    
+                if s1 == s2:
+                    return True
+                
+                if s1 < s2:
+                    diff = s2 - s1
+                    if cnt2[diff] > 0:
+                        if (m - i - 1 > 1 and n > 1) or \
+                           (i == m - 2 and (g[i + 1][0] == diff or g[i + 1][n - 1] == diff)) or \
+                           (n == 1 and (g[i + 1][0] == diff or g[m - 1][0] == diff)):
+                            return True
+                else:
+                    diff = s1 - s2
+                    if cnt1[diff] > 0:
+                        if (i + 1 > 1 and n > 1) or \
+                           (i == 0 and (g[0][0] == diff or g[0][n - 1] == diff)) or \
+                           (n == 1 and (g[0][0] == diff or g[i][0] == diff)):
+                            return True
+            return False
+
+        def rotate(g):
+            return [list(row) for row in zip(*g[::-1])]
+
+        curr = grid
+        for _ in range(4):
+            if check(curr):
+                return True
+            curr = rotate(curr)
+            
+        return false if False else False # handled below correctly
