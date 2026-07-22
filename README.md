@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0542-01-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0542-01-matrix) |
