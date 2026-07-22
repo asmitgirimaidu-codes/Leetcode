@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0055-jump-game) |
 | [0095-unique-binary-search-trees-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0115-distinct-subsequences) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0055-jump-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
