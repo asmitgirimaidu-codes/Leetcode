@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0166-fraction-to-recurring-decimal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0115-distinct-subsequences) |
