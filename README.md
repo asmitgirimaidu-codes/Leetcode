@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0113-path-sum-ii) |
 | [0401-binary-watch](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0401-binary-watch) |
