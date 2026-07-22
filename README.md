@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0164-maximum-gap) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0047-permutations-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0113-path-sum-ii) |
 | [0401-binary-watch](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0401-binary-watch) |
