@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0115-distinct-subsequences) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0070-climbing-stairs) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 ## Ordered Set
 |  |
