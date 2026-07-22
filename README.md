@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0874-walking-robot-simulation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -854,4 +857,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0146-lru-cache) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
