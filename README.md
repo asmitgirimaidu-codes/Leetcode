@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0164-maximum-gap) |
