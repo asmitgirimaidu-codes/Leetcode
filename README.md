@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0073-set-matrix-zeroes) |
