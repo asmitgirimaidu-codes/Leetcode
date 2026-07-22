@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0051-n-queens) |
 | [0095-unique-binary-search-trees-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0113-path-sum-ii) |
 | [0401-binary-watch](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0401-binary-watch) |
