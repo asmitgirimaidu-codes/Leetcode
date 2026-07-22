@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0076-minimum-window-substring) |
