@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0224-basic-calculator](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0224-basic-calculator) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1622-fancy-sequence](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0224-basic-calculator) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Two Pointers
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0224-basic-calculator](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0224-basic-calculator) |
 | [0657-robot-return-to-origin](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0761-special-binary-string) |
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0224-basic-calculator) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2751-robot-collisions](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2751-robot-collisions) |
 ## Trie
