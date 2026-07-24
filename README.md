@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0224-basic-calculator](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0282-expression-add-operators) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0273-integer-to-english-words) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Two Pointers
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0231-power-of-two) |
 | [0401-binary-watch](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
