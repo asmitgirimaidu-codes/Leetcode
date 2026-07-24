@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [2326-spiral-matrix-iv](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2326-spiral-matrix-iv) |
 ## Recursion
 |  |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0273-integer-to-english-words) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
