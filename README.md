@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0221-maximal-square) |
+| [0228-summary-ranges](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0228-summary-ranges) |
 | [0542-01-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0867-transpose-matrix) |
