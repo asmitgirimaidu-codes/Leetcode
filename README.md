@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0342-power-of-four) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1622-fancy-sequence](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1622-fancy-sequence) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0342-power-of-four) |
 | [1106-parsing-a-boolean-expression](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Two Pointers
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
