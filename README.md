@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0282-expression-add-operators) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0273-integer-to-english-words) |
 | [1106-parsing-a-boolean-expression](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0282-expression-add-operators) |
 | [0657-robot-return-to-origin](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0312-burst-balloons](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0312-burst-balloons) |
 | [0542-01-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0542-01-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -850,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0140-word-break-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 ## Ordered Set
 |  |
