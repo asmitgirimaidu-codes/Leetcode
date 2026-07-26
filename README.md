@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0312-burst-balloons) |
 | [0542-01-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-transpose-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1288-remove-covered-intervals](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0342-power-of-four) |
+| [0628-maximum-product-of-three-numbers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1622-fancy-sequence](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1622-fancy-sequence) |
@@ -675,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0229-majority-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0761-special-binary-string) |
 | [1288-remove-covered-intervals](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1331-rank-transform-of-an-array) |
