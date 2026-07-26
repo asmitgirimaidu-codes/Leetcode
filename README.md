@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2326-spiral-matrix-iv](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2573-find-the-string-with-lcp](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2574-left-and-right-sum-differences](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2573-find-the-string-with-lcp](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -691,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1840-maximum-building-height](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2126-destroying-asteroids](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2751-robot-collisions](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
