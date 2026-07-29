@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0242-valid-anagram) |
 | [0336-palindrome-pairs](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0874-walking-robot-simulation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -886,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0200-number-of-islands) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1632-rank-transform-of-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1632-rank-transform-of-a-matrix) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2573-find-the-string-with-lcp) |
@@ -943,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 ## Backtracking
 |  |
@@ -1061,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1622-fancy-sequence](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 ## Doubly-Linked List
@@ -1075,4 +1080,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Data Stream
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
