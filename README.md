@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0336-palindrome-pairs](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0383-ransom-note](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0761-special-binary-string) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0383-ransom-note](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0874-walking-robot-simulation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -903,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1655-distribute-repeating-integers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1655-distribute-repeating-integers) |
@@ -1087,4 +1090,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
