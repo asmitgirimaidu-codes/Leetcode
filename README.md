@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -677,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1776-car-fleet-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1776-car-fleet-ii) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2751-robot-collisions](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2751-robot-collisions) |
 ## Trie
 |  |
@@ -1070,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1776-car-fleet-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1776-car-fleet-ii) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Bitmask
 |  |
 | ------- |
