@@ -843,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0547-number-of-provinces) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1654-minimum-jumps-to-reach-home) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -911,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0399-evaluate-division](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0547-number-of-provinces) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -956,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0200-number-of-islands) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0399-evaluate-division](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0547-number-of-provinces) |
 | [1632-rank-transform-of-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1632-rank-transform-of-a-matrix) |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -988,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0133-clone-graph) |
 | [0399-evaluate-division](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0547-number-of-provinces) |
 | [1632-rank-transform-of-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1632-rank-transform-of-a-matrix) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
