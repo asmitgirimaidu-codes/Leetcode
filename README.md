@@ -1111,6 +1111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1075-project-employees-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1174-immediate-food-delivery-ii) |
+| [1193-monthly-transactions-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1193-monthly-transactions-i) |
 | [1341-movie-rating](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1341-movie-rating) |
 | [3580-find-consistently-improving-employees](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3580-find-consistently-improving-employees) |
 ## Monotonic Stack
