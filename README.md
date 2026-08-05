@@ -942,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0968-binary-tree-cameras](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0968-binary-tree-cameras) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -980,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0685-redundant-connection-ii) |
 | [0778-swim-in-rising-water](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0968-binary-tree-cameras](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0968-binary-tree-cameras) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1020,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0968-binary-tree-cameras](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0968-binary-tree-cameras) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Union-Find
