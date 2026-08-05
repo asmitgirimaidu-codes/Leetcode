@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0342-power-of-four) |
+| [0357-count-numbers-with-unique-digits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0382-linked-list-random-node](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0391-perfect-rectangle](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0391-perfect-rectangle) |
 | [0486-predict-the-winner](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0486-predict-the-winner) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0312-burst-balloons](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0357-count-numbers-with-unique-digits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0486-predict-the-winner](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0877-stone-game) |
@@ -1143,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0357-count-numbers-with-unique-digits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1655-distribute-repeating-integers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1655-distribute-repeating-integers) |
