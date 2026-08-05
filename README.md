@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2326-spiral-matrix-iv](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
+| [2540-minimum-common-value](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2540-minimum-common-value) |
 | [2573-find-the-string-with-lcp](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2574-left-and-right-sum-differences](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0696-count-binary-substrings) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2540-minimum-common-value](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2540-minimum-common-value) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2540-minimum-common-value](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2540-minimum-common-value) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2732-find-a-good-subset-of-the-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2732-find-a-good-subset-of-the-matrix) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -769,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [2540-minimum-common-value](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2540-minimum-common-value) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
