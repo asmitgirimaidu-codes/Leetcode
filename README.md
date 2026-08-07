@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1406-stone-game-iii) |
+| [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1406-stone-game-iii) |
+| [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1622-fancy-sequence](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1776-car-fleet-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1776-car-fleet-ii) |
@@ -1309,6 +1311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0858-mirror-reflection) |
 | [0883-projection-area-of-3d-shapes](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
+| [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 ## Counting Sort
 |  |
 | ------- |
