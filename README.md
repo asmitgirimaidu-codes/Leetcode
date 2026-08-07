@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0231-power-of-two) |
@@ -1284,6 +1285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0223-rectangle-area) |
 | [0391-perfect-rectangle](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0391-perfect-rectangle) |
 ## Counting Sort
 |  |
