@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1406-stone-game-iii) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1515-best-position-for-a-service-centre](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1515-best-position-for-a-service-centre) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1406-stone-game-iii) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
+| [1515-best-position-for-a-service-centre](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1515-best-position-for-a-service-centre) |
 | [1622-fancy-sequence](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1776-car-fleet-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1776-car-fleet-ii) |
@@ -1312,6 +1314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0858-mirror-reflection](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0858-mirror-reflection) |
 | [0883-projection-area-of-3d-shapes](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
+| [1515-best-position-for-a-service-centre](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1515-best-position-for-a-service-centre) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1347,6 +1350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0382-linked-list-random-node](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0478-generate-random-point-in-a-circle](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0478-generate-random-point-in-a-circle) |
+| [1515-best-position-for-a-service-centre](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1515-best-position-for-a-service-centre) |
 ## Minimax
 |  |
 | ------- |
