@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0478-generate-random-point-in-a-circle](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0486-predict-the-winner](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0486-predict-the-winner) |
 | [0587-erect-the-fence](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0587-erect-the-fence) |
+| [0593-valid-square](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0877-stone-game) |
@@ -1295,6 +1296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0391-perfect-rectangle) |
 | [0478-generate-random-point-in-a-circle](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0587-erect-the-fence](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0587-erect-the-fence) |
+| [0593-valid-square](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0593-valid-square) |
 ## Counting Sort
 |  |
 | ------- |
