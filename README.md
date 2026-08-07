@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0778-swim-in-rising-water](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [0812-largest-triangle-area](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0867-transpose-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0877-stone-game) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0812-largest-triangle-area](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1406-stone-game-iii) |
@@ -1297,6 +1299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0478-generate-random-point-in-a-circle](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0587-erect-the-fence](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0587-erect-the-fence) |
 | [0593-valid-square](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0593-valid-square) |
+| [0812-largest-triangle-area](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0812-largest-triangle-area) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1365,4 +1368,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0587-erect-the-fence](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0587-erect-the-fence) |
+| [0812-largest-triangle-area](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
