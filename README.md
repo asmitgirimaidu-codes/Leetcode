@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0812-largest-triangle-area](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0836-rectangle-overlap) |
+| [0858-mirror-reflection](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0858-mirror-reflection) |
 | [0877-stone-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1406-stone-game-iii) |
@@ -1250,6 +1251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0258-add-digits) |
+| [0858-mirror-reflection](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0858-mirror-reflection) |
 | [1622-fancy-sequence](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1622-fancy-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1302,6 +1304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0593-valid-square) |
 | [0812-largest-triangle-area](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0836-rectangle-overlap) |
+| [0858-mirror-reflection](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0858-mirror-reflection) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1371,4 +1374,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0587-erect-the-fence](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0587-erect-the-fence) |
 | [0812-largest-triangle-area](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0812-largest-triangle-area) |
+## Least Common Multiple
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0858-mirror-reflection) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0858-mirror-reflection](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0858-mirror-reflection) |
 <!---LeetCode Topics End-->
