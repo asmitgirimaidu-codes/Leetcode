@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0382-linked-list-random-node](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0391-perfect-rectangle](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0391-perfect-rectangle) |
+| [0478-generate-random-point-in-a-circle](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0486-predict-the-winner](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -1290,6 +1291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0223-rectangle-area) |
 | [0335-self-crossing](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0335-self-crossing) |
 | [0391-perfect-rectangle](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0391-perfect-rectangle) |
+| [0478-generate-random-point-in-a-circle](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1324,6 +1326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0382-linked-list-random-node) |
+| [0478-generate-random-point-in-a-circle](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 ## Minimax
 |  |
 | ------- |
@@ -1345,4 +1348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 <!---LeetCode Topics End-->
