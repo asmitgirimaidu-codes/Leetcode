@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0382-linked-list-random-node](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0391-perfect-rectangle](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0391-perfect-rectangle) |
+| [0464-can-i-win](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0464-can-i-win) |
 | [0478-generate-random-point-in-a-circle](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0486-predict-the-winner](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0486-predict-the-winner) |
 | [0587-erect-the-fence](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0587-erect-the-fence) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0357-count-numbers-with-unique-digits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0397-integer-replacement](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0397-integer-replacement) |
+| [0464-can-i-win](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0877-stone-game) |
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0401-binary-watch) |
+| [0464-can-i-win](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0464-can-i-win) |
 | [0693-binary-number-with-alternating-bits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0868-binary-gap) |
@@ -1161,6 +1164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0397-integer-replacement) |
+| [0464-can-i-win](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0464-can-i-win) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 ## Ordered Set
 |  |
@@ -1257,6 +1261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0464-can-i-win) |
 | [1655-distribute-repeating-integers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1655-distribute-repeating-integers) |
 ## Bucket Sort
 |  |
@@ -1348,6 +1353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1406-stone-game-iii) |
