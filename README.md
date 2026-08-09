@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0975-odd-even-jump](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0975-odd-even-jump) |
+| [1140-stone-game-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1314-matrix-block-sum](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1314-matrix-block-sum) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0858-mirror-reflection](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0858-mirror-reflection) |
 | [0877-stone-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
+| [1140-stone-game-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1406-stone-game-iii) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0877-stone-game) |
 | [0968-binary-tree-cameras](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [0975-odd-even-jump](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0975-odd-even-jump) |
+| [1140-stone-game-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1406-stone-game-iii) |
@@ -622,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1140-stone-game-ii) |
 | [1314-matrix-block-sum](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -1361,6 +1365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1406-stone-game-iii) |
 ## Eulerian Circuit
 |  |
@@ -1380,10 +1385,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [1140-stone-game-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1406-stone-game-iii) |
 ## Dijkstra's Algorithm
 |  |
