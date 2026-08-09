@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0778-swim-in-rising-water](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [0810-chalkboard-xor-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0812-largest-triangle-area](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0867-transpose-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0874-walking-robot-simulation) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0810-chalkboard-xor-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0812-largest-triangle-area](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0858-mirror-reflection) |
@@ -738,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0464-can-i-win) |
 | [0693-binary-number-with-alternating-bits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0810-chalkboard-xor-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0868-binary-gap](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -1367,6 +1370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0464-can-i-win](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0486-predict-the-winner) |
+| [0810-chalkboard-xor-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1406-stone-game-iii) |
@@ -1393,6 +1397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0810-chalkboard-xor-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [1140-stone-game-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1406-stone-game-iii) |
 ## Dijkstra's Algorithm
@@ -1432,4 +1437,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0319-bulb-switcher) |
+| [0810-chalkboard-xor-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0810-chalkboard-xor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0810-chalkboard-xor-game) |
 <!---LeetCode Topics End-->
