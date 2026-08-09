@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0282-expression-add-operators) |
+| [0319-bulb-switcher](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0342-power-of-four) |
@@ -1427,4 +1428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0858-mirror-reflection](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0858-mirror-reflection) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
