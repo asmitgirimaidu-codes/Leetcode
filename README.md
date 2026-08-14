@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0382-linked-list-random-node](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0391-perfect-rectangle](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0391-perfect-rectangle) |
 | [0464-can-i-win](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0464-can-i-win) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0357-count-numbers-with-unique-digits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0397-integer-replacement](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0486-predict-the-winner) |
@@ -1424,6 +1426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0464-can-i-win](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0486-predict-the-winner) |
 | [0810-chalkboard-xor-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0810-chalkboard-xor-game) |
@@ -1449,6 +1452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0778-swim-in-rising-water](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1140-stone-game-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1406-stone-game-iii) |
