@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2029-stone-game-ix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-car-fleet-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1776-car-fleet-ii) |
 | [1840-maximum-building-height](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2029-stone-game-ix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -937,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2029-stone-game-ix) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2126-destroying-asteroids) |
@@ -1189,6 +1192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1655-distribute-repeating-integers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1655-distribute-repeating-integers) |
+| [2029-stone-game-ix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3312-sorted-gcd-pair-queries](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search Tree
@@ -1450,6 +1454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1510-stone-game-iv) |
 | [1728-cat-and-mouse-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1728-cat-and-mouse-ii) |
+| [2029-stone-game-ix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2029-stone-game-ix) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -1473,6 +1478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1510-stone-game-iv) |
 | [1728-cat-and-mouse-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1728-cat-and-mouse-ii) |
+| [2029-stone-game-ix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -1481,6 +1487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1510-stone-game-iv) |
 | [1728-cat-and-mouse-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1728-cat-and-mouse-ii) |
+| [2029-stone-game-ix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2029-stone-game-ix) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
@@ -1529,6 +1536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
