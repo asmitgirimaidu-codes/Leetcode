@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0289-game-of-life) |
 | [0312-burst-balloons](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0330-patching-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0330-patching-array) |
 | [0332-reconstruct-itinerary](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0335-self-crossing](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0336-palindrome-pairs) |
@@ -946,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0135-candy) |
+| [0330-patching-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0330-patching-array) |
 | [0397-integer-replacement](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0409-longest-palindrome) |
