@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3838-weighted-word-mapping](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Divide and Conquer
 |  |
 | ------- |
