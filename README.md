@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2029-stone-game-ix) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -1506,6 +1507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1515-best-position-for-a-service-centre](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1515-best-position-for-a-service-centre) |
 | [1610-maximum-number-of-visible-points](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1610-maximum-number-of-visible-points) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Counting Sort
 |  |
 | ------- |
