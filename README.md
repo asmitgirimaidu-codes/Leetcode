@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1030-matrix-cells-in-distance-order](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+| [1037-valid-boomerang](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1037-valid-boomerang) |
 | [1140-stone-game-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1025-divisor-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1025-divisor-game) |
 | [1030-matrix-cells-in-distance-order](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+| [1037-valid-boomerang](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1037-valid-boomerang) |
 | [1140-stone-game-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1406-stone-game-iii) |
@@ -1492,6 +1494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0858-mirror-reflection](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0858-mirror-reflection) |
 | [0883-projection-area-of-3d-shapes](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1030-matrix-cells-in-distance-order](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+| [1037-valid-boomerang](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1037-valid-boomerang) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1515-best-position-for-a-service-centre](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1515-best-position-for-a-service-centre) |
 | [1610-maximum-number-of-visible-points](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1610-maximum-number-of-visible-points) |
