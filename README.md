@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0391-perfect-rectangle](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0391-perfect-rectangle) |
 | [0399-evaluate-division](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -765,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0778-swim-in-rising-water](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0778-swim-in-rising-water) |
@@ -928,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0778-swim-in-rising-water](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -949,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0332-reconstruct-itinerary](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0778-swim-in-rising-water](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -1016,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0332-reconstruct-itinerary](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
