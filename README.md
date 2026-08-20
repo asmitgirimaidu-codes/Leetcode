@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1037-valid-boomerang) |
 | [1140-stone-game-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1140-stone-game-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1250-check-if-it-is-a-good-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1140-stone-game-ii) |
 | [1201-ugly-number-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1201-ugly-number-iii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1250-check-if-it-is-a-good-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -1461,6 +1463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-largest-component-size-by-common-factor](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1201-ugly-number-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1201-ugly-number-iii) |
+| [1250-check-if-it-is-a-good-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1622-fancy-sequence](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1622-fancy-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1634,6 +1637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0858-mirror-reflection](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0858-mirror-reflection) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1201-ugly-number-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1201-ugly-number-iii) |
+| [1250-check-if-it-is-a-good-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1679,6 +1683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1201-ugly-number-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1201-ugly-number-iii) |
+| [1250-check-if-it-is-a-good-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -1687,4 +1692,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1201-ugly-number-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1201-ugly-number-iii) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
