@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0952-largest-component-size-by-common-factor](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [0975-odd-even-jump](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0975-odd-even-jump) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0952-largest-component-size-by-common-factor](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1025-divisor-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1025-divisor-game) |
 | [1030-matrix-cells-in-distance-order](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1037-valid-boomerang) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0874-walking-robot-simulation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0952-largest-component-size-by-common-factor](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [1189-maximum-number-of-balloons](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -1258,6 +1261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0685-redundant-connection-ii) |
 | [0778-swim-in-rising-water](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [0952-largest-component-size-by-common-factor](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1632-rank-transform-of-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1632-rank-transform-of-a-matrix) |
@@ -1453,6 +1457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0258-add-digits) |
 | [0858-mirror-reflection](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0858-mirror-reflection) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0952-largest-component-size-by-common-factor](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1622-fancy-sequence](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1622-fancy-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1667,4 +1672,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Prime Factorization
+|  |
+| ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 <!---LeetCode Topics End-->
