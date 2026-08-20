@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1037-valid-boomerang) |
 | [1140-stone-game-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1140-stone-game-ii) |
+| [1201-ugly-number-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1201-ugly-number-iii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -962,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0778-swim-in-rising-water](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [1201-ugly-number-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1201-ugly-number-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -1458,6 +1460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0858-mirror-reflection](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0858-mirror-reflection) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-largest-component-size-by-common-factor](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
+| [1201-ugly-number-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1201-ugly-number-iii) |
 | [1622-fancy-sequence](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1622-fancy-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1481,6 +1484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0062-unique-paths) |
+| [1201-ugly-number-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1201-ugly-number-iii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Minimum Spanning Tree
 |  |
@@ -1623,11 +1627,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0858-mirror-reflection](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0858-mirror-reflection) |
+| [1201-ugly-number-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1201-ugly-number-iii) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0858-mirror-reflection](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0858-mirror-reflection) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1201-ugly-number-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1201-ugly-number-iii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1672,8 +1678,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1201-ugly-number-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1201-ugly-number-iii) |
 ## Prime Factorization
 |  |
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
+## Inclusion-Exclusion Principle
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1201-ugly-number-iii) |
 <!---LeetCode Topics End-->
