@@ -481,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0282-expression-add-operators) |
+| [0299-bulls-and-cows](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0332-reconstruct-itinerary](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0336-palindrome-pairs](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0336-palindrome-pairs) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0299-bulls-and-cows](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
@@ -1304,6 +1306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
