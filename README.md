@@ -1137,6 +1137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0399-evaluate-division) |
@@ -1191,6 +1192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0337-house-robber-iii) |
 | [0572-subtree-of-another-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -1227,6 +1229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0332-reconstruct-itinerary) |
@@ -1282,6 +1285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0337-house-robber-iii) |
 | [0572-subtree-of-another-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0572-subtree-of-another-tree) |
