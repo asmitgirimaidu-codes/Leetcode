@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0566-reshape-the-matrix) |
@@ -1020,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0502-ipo](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0502-ipo) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0778-swim-in-rising-water](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -1045,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0502-ipo](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0502-ipo) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1092,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0502-ipo](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0761-special-binary-string) |
