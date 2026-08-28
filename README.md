@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2029-stone-game-ix) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2573-find-the-string-with-lcp](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2573-find-the-string-with-lcp) |
@@ -1094,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2029-stone-game-ix) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2573-find-the-string-with-lcp](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2573-find-the-string-with-lcp) |
@@ -1692,6 +1695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2029-stone-game-ix) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 ## Eulerian Circuit
