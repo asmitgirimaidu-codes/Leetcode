@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1563-stone-game-v](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1510-stone-game-iv](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1510-stone-game-iv) |
 | [1515-best-position-for-a-service-centre](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1515-best-position-for-a-service-centre) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1563-stone-game-v](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1563-stone-game-v) |
 | [1610-maximum-number-of-visible-points](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1610-maximum-number-of-visible-points) |
 | [1622-fancy-sequence](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1622-fancy-sequence) |
@@ -1074,6 +1076,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -1130,6 +1133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1610-maximum-number-of-visible-points](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1610-maximum-number-of-visible-points) |
 | [1632-rank-transform-of-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1632-rank-transform-of-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -1669,6 +1673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1510-stone-game-iv) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1563-stone-game-v](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1563-stone-game-v) |
 | [1728-cat-and-mouse-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1728-cat-and-mouse-ii) |
 | [1872-stone-game-viii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1872-stone-game-viii) |
