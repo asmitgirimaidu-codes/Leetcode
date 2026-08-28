@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -816,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3379-transformed-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3379-transformed-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -1690,6 +1692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2029-stone-game-ix) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 ## Eulerian Circuit
 |  |
