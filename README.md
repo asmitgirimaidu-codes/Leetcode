@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0691-stickers-to-spell-word](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0695-max-area-of-island](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0695-max-area-of-island) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0721-accounts-merge](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0721-accounts-merge) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0778-swim-in-rising-water](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0778-swim-in-rising-water) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0542-01-matrix) |
 | [0552-student-attendance-record-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0552-student-attendance-record-ii) |
 | [0691-stickers-to-spell-word](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0691-stickers-to-spell-word) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0877-stone-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0877-stone-game) |
 | [0968-binary-tree-cameras](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [0975-odd-even-jump](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0975-odd-even-jump) |
@@ -892,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0464-can-i-win) |
 | [0691-stickers-to-spell-word](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0693-binary-number-with-alternating-bits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0810-chalkboard-xor-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0868-binary-gap](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0868-binary-gap) |
@@ -1421,6 +1424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0464-can-i-win) |
 | [0488-zuma-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0488-zuma-game) |
 | [0691-stickers-to-spell-word](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0691-stickers-to-spell-word) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1728-cat-and-mouse-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1728-cat-and-mouse-ii) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 ## Ordered Set
@@ -1459,6 +1463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0401-binary-watch) |
 | [0691-stickers-to-spell-word](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0691-stickers-to-spell-word) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1655-distribute-repeating-integers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1655-distribute-repeating-integers) |
 | [1980-find-unique-binary-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -1526,6 +1531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0464-can-i-win](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0464-can-i-win) |
 | [0691-stickers-to-spell-word](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0691-stickers-to-spell-word) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1655-distribute-repeating-integers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1655-distribute-repeating-integers) |
 ## Bucket Sort
 |  |
