@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3225-maximum-score-from-grid-operations](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
+| [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -916,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2732-find-a-good-subset-of-the-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2732-find-a-good-subset-of-the-matrix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1203,6 +1206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
@@ -1545,6 +1549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1655-distribute-repeating-integers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1655-distribute-repeating-integers) |
+| [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1685,6 +1690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2029-stone-game-ix) |
+| [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 ## Eulerian Circuit
 |  |
 | ------- |
