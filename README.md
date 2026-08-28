@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1655-distribute-repeating-integers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1655-distribute-repeating-integers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1686-stone-game-vi](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1686-stone-game-vi) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1728-cat-and-mouse-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1728-cat-and-mouse-ii) |
 | [1732-find-the-highest-altitude](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-maximum-number-of-visible-points](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1610-maximum-number-of-visible-points) |
 | [1622-fancy-sequence](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1686-stone-game-vi](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1686-stone-game-vi) |
 | [1728-cat-and-mouse-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1728-cat-and-mouse-ii) |
 | [1776-car-fleet-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1776-car-fleet-ii) |
 | [1840-maximum-building-height](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1840-maximum-building-height) |
@@ -1049,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0778-swim-in-rising-water](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1686-stone-game-vi](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1686-stone-game-vi) |
 | [1776-car-fleet-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1776-car-fleet-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1078,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1686-stone-game-vi](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1686-stone-game-vi) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -1137,6 +1141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-maximum-number-of-visible-points](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1610-maximum-number-of-visible-points) |
 | [1632-rank-transform-of-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1632-rank-transform-of-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1686-stone-game-vi](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1686-stone-game-vi) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1840-maximum-building-height) |
@@ -1675,6 +1680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1510-stone-game-iv) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1563-stone-game-v](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1563-stone-game-v) |
+| [1686-stone-game-vi](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1686-stone-game-vi) |
 | [1728-cat-and-mouse-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1728-cat-and-mouse-ii) |
 | [1872-stone-game-viii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1927-sum-game) |
@@ -1702,6 +1708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1510-stone-game-iv) |
+| [1686-stone-game-vi](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1686-stone-game-vi) |
 | [1728-cat-and-mouse-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1728-cat-and-mouse-ii) |
 | [1872-stone-game-viii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2029-stone-game-ix) |
@@ -1712,6 +1719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1510-stone-game-iv) |
+| [1686-stone-game-vi](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1686-stone-game-vi) |
 | [1728-cat-and-mouse-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1728-cat-and-mouse-ii) |
 | [1872-stone-game-viii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2029-stone-game-ix) |
