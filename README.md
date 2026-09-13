@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0810-chalkboard-xor-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0812-largest-triangle-area](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0812-largest-triangle-area) |
+| [0835-image-overlap](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0835-image-overlap) |
 | [0843-guess-the-word](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0843-guess-the-word) |
 | [0867-transpose-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0874-walking-robot-simulation) |
@@ -889,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1030-matrix-cells-in-distance-order](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
