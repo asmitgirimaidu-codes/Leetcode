@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0284-peeking-iterator](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0289-game-of-life) |
+| [0307-range-sum-query-mutable](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0312-burst-balloons) |
 | [0324-wiggle-sort-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -786,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0307-range-sum-query-mutable](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0493-reverse-pairs](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0493-reverse-pairs) |
@@ -796,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0493-reverse-pairs) |
 | [1622-fancy-sequence](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1622-fancy-sequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -1681,6 +1684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0284-peeking-iterator](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0284-peeking-iterator) |
+| [0307-range-sum-query-mutable](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -1949,9 +1953,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0493-reverse-pairs) |
 ## Treap
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0493-reverse-pairs) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
