@@ -545,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0488-zuma-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0488-zuma-game) |
+| [0535-encode-and-decode-tinyurl](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0657-robot-return-to-origin](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0691-stickers-to-spell-word](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0696-count-binary-substrings](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0696-count-binary-substrings) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0535-encode-and-decode-tinyurl](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0691-stickers-to-spell-word](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0721-accounts-merge](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0721-accounts-merge) |
 | [0874-walking-robot-simulation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0874-walking-robot-simulation) |
@@ -1666,6 +1668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0336-palindrome-pairs](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0336-palindrome-pairs) |
+| [0535-encode-and-decode-tinyurl](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0572-subtree-of-another-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1044-longest-duplicate-substring](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -1692,6 +1695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0355-design-twitter) |
+| [0535-encode-and-decode-tinyurl](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0933-number-of-recent-calls) |
