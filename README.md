@@ -1100,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0374-guess-number-higher-or-lower](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0493-reverse-pairs) |
@@ -1957,6 +1958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0843-guess-the-word](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0843-guess-the-word) |
 ## Longest Increasing Subsequence
 |  |
