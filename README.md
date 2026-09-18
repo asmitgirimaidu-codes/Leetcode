@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1032-stream-of-characters](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1032-stream-of-characters) |
 | [1037-valid-boomerang](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1037-valid-boomerang) |
+| [1095-find-in-mountain-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1140-stone-game-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1140-stone-game-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1250-check-if-it-is-a-good-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
@@ -1107,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1044-longest-duplicate-substring](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1044-longest-duplicate-substring) |
+| [1095-find-in-mountain-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1201-ugly-number-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1201-ugly-number-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -1960,6 +1962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0843-guess-the-word](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0843-guess-the-word) |
+| [1095-find-in-mountain-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1095-find-in-mountain-array) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -2005,4 +2008,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
