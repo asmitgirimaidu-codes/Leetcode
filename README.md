@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-lattice-points-inside-a-circle](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2326-spiral-matrix-iv](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2463-minimum-total-distance-traveled](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2540-minimum-common-value](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2573-find-the-string-with-lcp](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2833-furthest-point-from-origin](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -811,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0493-reverse-pairs) |
 | [0761-special-binary-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0912-sort-an-array) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -1147,6 +1150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1686-stone-game-vi](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1686-stone-game-vi) |
 | [1776-car-fleet-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1776-car-fleet-ii) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -1250,6 +1254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2126-destroying-asteroids) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2463-minimum-total-distance-traveled](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2751-robot-collisions](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2751-robot-collisions) |
@@ -1674,6 +1679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0912-sort-an-array) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -1938,6 +1944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0324-wiggle-sort-ii) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Euclidean Algorithm
 |  |
 | ------- |
