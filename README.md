@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0587-erect-the-fence](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0587-erect-the-fence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0645-set-mismatch) |
+| [0654-maximum-binary-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0691-stickers-to-spell-word](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0695-max-area-of-island](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -826,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0493-reverse-pairs](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0493-reverse-pairs) |
+| [0654-maximum-binary-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0761-special-binary-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0912-sort-an-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -1062,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0488-zuma-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0488-zuma-game) |
 | [0496-next-greater-element-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0901-online-stock-span](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0901-online-stock-span) |
 | [0975-odd-even-jump](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0975-odd-even-jump) |
@@ -1380,6 +1383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0337-house-robber-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0654-maximum-binary-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0968-binary-tree-cameras](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
@@ -1479,6 +1483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0337-house-robber-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0654-maximum-binary-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0968-binary-tree-cameras](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
@@ -1683,6 +1688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0901-online-stock-span](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0901-online-stock-span) |
 | [0975-odd-even-jump](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0975-odd-even-jump) |
@@ -2070,4 +2076,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0372-super-pow) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
