@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0912-sort-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-largest-component-size-by-common-factor](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
@@ -765,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0721-accounts-merge](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0721-accounts-merge) |
 | [0874-walking-robot-simulation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-largest-component-size-by-common-factor](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
@@ -829,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0493-reverse-pairs) |
 | [0654-maximum-binary-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0761-special-binary-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0761-special-binary-string) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0912-sort-an-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -1385,6 +1388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0654-maximum-binary-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0968-binary-tree-cameras](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -1485,6 +1489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0654-maximum-binary-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0968-binary-tree-cameras](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
