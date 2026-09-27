@@ -579,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1189-maximum-number-of-balloons](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -1081,6 +1082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1106-parsing-a-boolean-expression) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1776-car-fleet-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1776-car-fleet-ii) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -2095,4 +2097,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0654-maximum-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
