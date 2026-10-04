@@ -569,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0488-zuma-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0488-zuma-game) |
 | [0535-encode-and-decode-tinyurl](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0657-robot-return-to-origin](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0691-stickers-to-spell-word](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0696-count-binary-substrings](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0721-accounts-merge](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0721-accounts-merge) |
@@ -684,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0488-zuma-game](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0488-zuma-game) |
 | [0542-01-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0542-01-matrix) |
 | [0552-student-attendance-record-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0552-student-attendance-record-ii) |
+| [0678-valid-parenthesis-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0691-stickers-to-spell-word](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0788-rotated-digits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0788-rotated-digits) |
@@ -1081,6 +1083,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0678-valid-parenthesis-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0901-online-stock-span](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0901-online-stock-span) |
 | [0975-odd-even-jump](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0975-odd-even-jump) |
@@ -1219,6 +1222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0502-ipo) |
+| [0678-valid-parenthesis-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -2110,6 +2114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
