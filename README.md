@@ -576,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0761-special-binary-string) |
 | [0843-guess-the-word](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0843-guess-the-word) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1032-stream-of-characters](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1032-stream-of-characters) |
 | [1044-longest-duplicate-substring](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1089,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0975-odd-even-jump](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0975-odd-even-jump) |
+| [1021-remove-outermost-parentheses](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1106-parsing-a-boolean-expression](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1106-parsing-a-boolean-expression) |
@@ -2119,6 +2121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
