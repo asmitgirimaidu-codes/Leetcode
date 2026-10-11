@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2732-find-a-good-subset-of-the-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2732-find-a-good-subset-of-the-matrix) |
 | [2751-robot-collisions](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2906-construct-product-matrix) |
@@ -1053,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1291-sequential-digits) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2249-count-lattice-points-inside-a-circle) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
