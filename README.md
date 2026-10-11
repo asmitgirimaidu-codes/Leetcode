@@ -1118,6 +1118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0336-palindrome-pairs](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0336-palindrome-pairs) |
+| [0386-lexicographical-numbers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [1032-stream-of-characters](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1032-stream-of-characters) |
 | [3093-longest-common-suffix-queries](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 ## Sliding Window
@@ -1463,6 +1464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0337-house-robber-iii) |
+| [0386-lexicographical-numbers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0419-battleships-in-a-board) |
