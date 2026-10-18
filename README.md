@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1563-stone-game-v](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1610-maximum-number-of-visible-points](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1610-maximum-number-of-visible-points) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1515-best-position-for-a-service-centre](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1515-best-position-for-a-service-centre) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1563-stone-game-v](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1610-maximum-number-of-visible-points](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1610-maximum-number-of-visible-points) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1622-fancy-sequence) |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1510-stone-game-iv) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1563-stone-game-v](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1655-distribute-repeating-integers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1655-distribute-repeating-integers) |
@@ -862,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -1447,6 +1451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
@@ -1549,6 +1554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Union-Find
 |  |
 | ------- |
@@ -1566,6 +1572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-largest-component-size-by-common-factor](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1632-rank-transform-of-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1632-rank-transform-of-a-matrix) |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -1600,6 +1607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1654,6 +1662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0913-cat-and-mouse](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0913-cat-and-mouse) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1728-cat-and-mouse-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1728-cat-and-mouse-ii) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 ## Ordered Set
@@ -1818,6 +1827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0062-unique-paths) |
 | [1201-ugly-number-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1201-ugly-number-iii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -2159,4 +2169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
