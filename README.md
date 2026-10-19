@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0464-can-i-win) |
 | [0478-generate-random-point-in-a-circle](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0486-predict-the-winner](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0486-predict-the-winner) |
+| [0507-perfect-number](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0507-perfect-number) |
 | [0587-erect-the-fence](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0587-erect-the-fence) |
 | [0593-valid-square](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
