@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3660-jump-game-ix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3660-jump-game-ix) |
+| [3665-twisted-mirror-path-count](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3689-maximum-total-subarray-value-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -753,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3660-jump-game-ix) |
+| [3665-twisted-mirror-path-count](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
@@ -1032,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3665-twisted-mirror-path-count](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bit Manipulation
 |  |
