@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1861-rotating-the-box) |
 | [1872-stone-game-viii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -1273,6 +1274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1686-stone-game-vi](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1686-stone-game-vi) |
 | [1776-car-fleet-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1776-car-fleet-ii) |
+| [1882-process-tasks-using-servers](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
