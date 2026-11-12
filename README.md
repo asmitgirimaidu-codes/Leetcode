@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3093-longest-common-suffix-queries](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3093-longest-common-suffix-queries) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3225-maximum-score-from-grid-operations](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
