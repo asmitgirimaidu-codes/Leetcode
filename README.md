@@ -537,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2540-minimum-common-value) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3093-longest-common-suffix-queries](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3093-longest-common-suffix-queries) |
@@ -773,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
