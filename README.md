@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3093-longest-common-suffix-queries](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -778,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -1430,6 +1432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
