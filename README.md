@@ -740,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0313-super-ugly-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0337-house-robber-iii) |
+| [0338-counting-bits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -1113,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/asmitgirimaidu-codes/Leetcode/tree/master/0397-integer-replacement) |
